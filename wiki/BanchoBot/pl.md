@@ -4,6 +4,8 @@
 
 Twój host [serwera osu!](/wiki/Internet_Relay_Chat).
 
+BanchoBot to bot internetowy (czyli zestaw komend i zautomatyzowanych odpowiedzi), zaprogramowany przez **Echo49**.
+
 ma swój własny profil!
 
 Wygląd i zadania
