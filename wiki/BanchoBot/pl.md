@@ -2,12 +2,17 @@
 
 ![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
 
-BanchoBot to bot internetowy (czyli zestaw komend i zautomatyzowanych odpowiedzi), łktóry pomaga graczom na czacie poprzez wyświetlanie pewnych informacji zażądanych przez użytkownika oraz ogłaszanie informacji związanych z grą. Jest hostem [serwera osu!](/wiki/Internet_Relay_Chat) i posiada profil o nr ID _[#3](https://osu.ppy.sh/u/3)_ (tuż obok peppy'ego, który posiada profil o nr ID [#2](https://osu.ppy.sh/u/2)).
+BanchoBot to bot internetowy (czyli zestaw komend i zautomatyzowanych odpowiedzi), który pomaga graczom na czacie poprzez wyświetlanie pewnych informacji zażądanych przez użytkownika oraz ogłaszanie informacji związanych z grą. Zostal zaprogramowany przez [Echo49](/users/431). Jest takze hostem [serwera Bancho IRC](/wiki/Internet_Relay_Chat). Posiada swoj wlasny [profil osu!](/users/3) oraz swoje [konto na twiterze](https://twitter.com/banchoboat)!
 
+## Komendy
+
+*Aby poznac liste komend w kliencie gry, zobacz [Czat](/wiki/Chat_Console)*
+
+Komendy BanchoBota zaczynaja sie od '!' i nastepujacym po wykrzykniku poleceniu. Komendy te dzialaja w grze oraz zewnetrznych klientach IRC. Moga byc one uzyte czacie trybu multiplayer oraz zakladce z rozmowa prywatna z BanchoBotem. Jezeli normalny uzytkownik napisze komende BanchoBota na publicznym kanale, inne osoby nie beda mogly jej zobaczyc, a odpowiedz BanchoBota zostanie wyswietlona w zakladce rozmowy prywatnej z BanchoBotem.
 Wygląd i zadania
 ----------------
 
-### !help
+## !help
 
 -   Otwiera zakładkę BanchoBota w okienku czatu. Wyświetli ci listę komend podanych poniżej.
     -   Jeśli masz otwartą zakładkę BanchoBot, jakakolwiek użyta komenda pojawi się w tym okienku niezależnie na którym okienku byłeś gdy wydawałeś komendę (nie wliczając w to moderatorów)
