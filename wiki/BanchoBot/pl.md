@@ -9,8 +9,6 @@ BanchoBot to bot internetowy (czyli zestaw komend i zautomatyzowanych odpowiedzi
 *Aby poznac liste komend w kliencie gry, zobacz [Czat](/wiki/Chat_Console)*
 
 Komendy BanchoBota zaczynaja sie od '!' i nastepujacym po wykrzykniku poleceniu. Komendy te dzialaja w grze oraz zewnetrznych klientach IRC. Moga byc one uzyte czacie trybu multiplayer oraz zakladce z rozmowa prywatna z BanchoBotem. Jezeli normalny uzytkownik napisze komende BanchoBota na publicznym kanale, inne osoby nie beda mogly jej zobaczyc, a odpowiedz BanchoBota zostanie wyswietlona w zakladce rozmowy prywatnej z BanchoBotem.
-Wygląd i zadania
-----------------
 
 ## !help
 
